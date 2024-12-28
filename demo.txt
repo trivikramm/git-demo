@@ -1,2 +1,0 @@
-Trivikram
-Git is a VCS
