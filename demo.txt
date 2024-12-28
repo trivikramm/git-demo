@@ -1,2 +1,2 @@
 Trivikram
-It's a merge session
+Git is a VCS
