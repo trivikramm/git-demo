@@ -1,3 +1,4 @@
 Trivikram
 Git is a VCS
 Its about repo
+Its a session about GIT
